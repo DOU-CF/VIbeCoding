@@ -1,4 +1,9 @@
 h1 {
   font-size: 36px;
   color: chocolate;
+  cursor: pointer;
+}
+
+h1:hover {
+  color: #65a30d;
 }
